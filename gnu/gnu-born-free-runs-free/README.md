@@ -2,4 +2,4 @@
 
 https://www.gnu.org/graphics/gnu-born-free-run-free.html
 
-![](./gnu-born-free-run-free.svg)
+<image src="./gnu-born-free-run-free.svg" width="300">
